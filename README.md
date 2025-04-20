@@ -8,7 +8,7 @@ This repository is accessible only by Group 10 and our prof
 
 This project explores the adoption of Electronic Health Records (EHR) in non-federal acute care hospitals using big data tools. The analysis was conducted in a PySpark environment to efficiently handle, clean, and model the dataset at scale.
 
-**Project Overview**
+***Project Overview***
 
 *Dataset*: U.S. Department of Health & Human Services — Non-Federal Acute Care Hospital Health IT Adoption
 
@@ -16,8 +16,9 @@ This project explores the adoption of Electronic Health Records (EHR) in non-fed
 
 *Objective*: Analyze adoption patterns using distributed processing and machine learning in PySpark
 
-**Workflow Summary**
-Data Import & Schema Update
+***Workflow Summary***
+
+**Data Import & Schema Update**
 
 Loaded CSV into Spark DataFrame
 
@@ -56,7 +57,7 @@ Evaluated model accuracy
 
 Visualized various aspects, including model accuracy differences
 
-**Tech Stack**
+***Tech Stack***
 
 Apache Spark (PySpark)
 
