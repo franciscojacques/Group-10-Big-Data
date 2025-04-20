@@ -53,7 +53,7 @@ Evaluated model accuracy
 
 **Visualization**
 
-Visualized various aspects including model accuracy differences
+Visualized various aspects, including model accuracy differences
 
 **Tech Stack**
 
@@ -63,7 +63,7 @@ Spark MLlib
 
 Spark SQL
 
-Python (matplotlib, seaborn, pandas for local plotting)
+Python 
 
 Jupyter Notebooks / Databricks / VS Code
 
